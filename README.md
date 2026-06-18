@@ -17,7 +17,7 @@
 
 ## 👨‍💻 Professional Summary
 
-I'm a **Cybersecurity Engineer** and **AI Integration Specialist** from **Mombasa, Kenya**. I build intelligent security solutions using local LLMs and full-stack technologies. My passion lies at the intersection of security, artificial intelligence, and practical application development.
+I'm a **Full Stack,backend frontend Deplyoing Engineer** and **AI Integration Specialist** from **Mombasa, Kenya**. I build intelligent security solutions using local LLMs and full-stack technologies. My passion lies at the intersection of security, artificial intelligence, and practical application development.
 
 With a strong foundation in Python, Java, and JavaScript, I create end-to-end solutions that address real-world challenges. My expertise spans threat detection, AI model deployment, and cross-platform application development.
 
