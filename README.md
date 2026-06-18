@@ -5,6 +5,7 @@
 ### Cybersecurity Engineer | AI Integration Specialist | Full-Stack Developer
 
 [![GitHub followers](https://img.shields.io/github/followers/ElishaBwire01?style=for-the-badge&logo=github&color=00ff9d)](https://github.com/ElishaBwire01)
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-elisha-program.vercel.app)
 
 </div>
 
@@ -12,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Cybersecurity Engineer** and **AI Integration Specialist** from Nairobi, Kenya. I build intelligent security solutions using local LLMs and full-stack technologies.
+I'm a **Cybersecurity Engineer** and **AI Integration Specialist** from Mombasa, Kenya. I build intelligent security solutions using local LLMs and full-stack technologies. My passion lies at the intersection of security, artificial intelligence, and practical application development.
 
 ### What I Do
 
@@ -66,6 +67,19 @@ I'm a **Cybersecurity Engineer** and **AI Integration Specialist** from Nairobi,
 
 ---
 
+### 💼 Kazi 24/7 - Job Platform
+*Connecting Job Seekers with Opportunities*
+
+- Job listing platform
+- User-friendly interface
+- Built with modern web technologies
+
+**Tech:** HTML, CSS, JavaScript
+
+🔗 [View Project](https://github.com/ElishaBwire01/kazi-24-7)
+
+---
+
 ## 🛠️ Technical Skills
 
 | Category | Skills |
@@ -93,13 +107,16 @@ I'm a **Cybersecurity Engineer** and **AI Integration Specialist** from Nairobi,
 - ✅ Cross-platform apps (Web + Mobile)
 - ✅ Local AI deployment with Ollama
 - ✅ Universal Android build system
+- ✅ Active GitHub contributor with 5+ repositories
 
 ---
 
-## 📫 Connect
+## 📫 Connect With Me
 
 - GitHub: [@ElishaBwire01](https://github.com/ElishaBwire01)
-- Email: elishabwire563@gmail.com
+- Email: [elishabwire563@gmail.com](mailto:elishabwire563@gmail.com)
+- Phone: +254 101 277 391
+- Portfolio: [portfolio-elisha-program.vercel.app](https://portfolio-elisha-program.vercel.app)
 
 ---
 
@@ -109,4 +126,21 @@ I'm a **Cybersecurity Engineer** and **AI Integration Specialist** from Nairobi,
 
 <img src="https://komarev.com/ghpvc/?username=ElishaBwire01&color=00ff9d&style=for-the-badge" />
 
+**Open to:** Full-Stack Developer, Python Developer, Android Developer roles  
+**Location:** Mombasa, Kenya | **Availability:** Open to opportunities
+
 </div>
+
+---
+
+## 🔍 Quick Summary for Recruiters
+
+- **Who:** Cybersecurity Engineer & AI Integration Specialist from Mombasa, Kenya
+- **Skills:** Python, Django, Android, Java, AI (Ollama), Docker
+- **What:** 5+ real projects on GitHub with live portfolio
+- **Goal:** Junior/Mid-level Developer roles
+- **Availability:** Open to full-time, internship, and freelance opportunities
+
+---
+
+*This profile showcases real projects, verifiable skills, and a commitment to building intelligent security solutions. All projects are available on GitHub for review.*
