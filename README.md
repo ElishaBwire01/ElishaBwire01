@@ -5,36 +5,41 @@
 ### Cybersecurity Engineer | AI Integration Specialist | Full-Stack Developer
 
 [![GitHub followers](https://img.shields.io/github/followers/ElishaBwire01?style=for-the-badge&logo=github&color=00ff9d)](https://github.com/ElishaBwire01)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-elisha-program.vercel.app)
-[![AI Chat](https://img.shields.io/badge/🤖_AI_Explainer-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-64odlr5qo-elisha-program.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://elisha-portfolio-five.vercel.app)
+[![AI Chat](https://img.shields.io/badge/🤖_AI_Explainer-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://elisha-ai-explainer.vercel.app)
+[![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254101277391)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elishabwire)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elishabwire563@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+254101277391)
 
 </div>
 
 ---
 
-## 👨‍💻 Professional Summary
+## 👨‍💻 About Me
 
-I'm a **Full Stack,backend frontend Deplyoing Engineer** and **AI Integration Specialist** from **Mombasa, Kenya**. I build intelligent security solutions using local LLMs and full-stack technologies. My passion lies at the intersection of security, artificial intelligence, and practical application development.
+I'm a **Cybersecurity Engineer** and **AI Integration Specialist** from **Mombasa, Kenya**. I build intelligent security solutions using local LLMs and full-stack technologies. My passion lies at the intersection of security, artificial intelligence, and practical application development.
 
 With a strong foundation in Python, Java, and JavaScript, I create end-to-end solutions that address real-world challenges. My expertise spans threat detection, AI model deployment, and cross-platform application development.
 
+### What I Do
+
+- 🔐 **Cybersecurity** - Threat detection, malware analysis, security automation
+- 🤖 **AI Integration** - Local LLM deployment with Ollama, model fine-tuning
+- 🌐 **Full-Stack Development** - Django, Flask, Android apps
+- ☁️ **DevOps** - Docker, GitHub Actions, Cloudflare tunnels
+
 ---
 
-## 🎯 Core Competencies
+## 🛠️ Technical Skills
 
-| Category | Skills & Technologies |
-|----------|----------------------|
-| **Programming Languages** | Python (95%), Java (85%), JavaScript (75%), HTML/CSS (80%) |
-| **Web Frameworks** | Django, Flask, REST APIs |
-| **Mobile Development** | Android SDK, Gradle, XML |
-| **AI & Machine Learning** | Ollama, Transformers, PyTorch, Local LLM Deployment |
-| **Cybersecurity** | Malware Analysis, Phishing Detection, Social Engineering, Threat Detection |
-| **DevOps & Tools** | Docker, Git, GitHub Actions, Cloudflare, Vercel, Netlify |
-| **Databases** | MongoDB, SQLite, PostgreSQL |
-| **Other** | Responsive Design, Security Automation, API Integration |
+| Category | Skills |
+|----------|--------|
+| **Languages** | Python 95%, Java 85%, HTML/CSS 80%, JavaScript 75% |
+| **Frameworks** | Django, Flask, Android SDK, Gradle |
+| **AI/ML** | Ollama, Transformers, PyTorch |
+| **Cybersecurity** | Malware Analysis, Phishing Detection, Social Engineering |
+| **DevOps** | Docker, Git, GitHub Actions, Cloudflare |
+| **Deployment** | Vercel, Netlify, Cloudflare Pages |
 
 ---
 
@@ -113,7 +118,7 @@ With a strong foundation in Python, Java, and JavaScript, I create end-to-end so
 
 **Tech Stack:** HTML, CSS, JavaScript, Pollinations.ai API, Vercel
 
-🔗 [Live Demo](https://portfolio-64odlr5qo-elisha-program.vercel.app) | [View Code](https://github.com/ElishaBwire01)
+🔗 [Live Demo](https://elisha-ai-explainer.vercel.app) | [View Code](https://github.com/ElishaBwire01)
 
 ---
 
@@ -147,8 +152,8 @@ With a strong foundation in Python, Java, and JavaScript, I create end-to-end so
 
 | Project | URL | Status |
 |---------|-----|--------|
-| **Personal Portfolio** | [portfolio-elisha-program.vercel.app](https://portfolio-elisha-program.vercel.app) | ✅ Live |
-| **AI Explainer Chat** | [portfolio-64odlr5qo-elisha-program.vercel.app](https://portfolio-64odlr5qo-elisha-program.vercel.app) | ✅ Live |
+| **Personal Portfolio** | [elisha-portfolio-five.vercel.app](https://elisha-portfolio-five.vercel.app) | ✅ Live |
+| **AI Explainer Chat** | [elisha-ai-explainer.vercel.app](https://elisha-ai-explainer.vercel.app) | ✅ Live |
 | **Cybersecurity Dashboard** | [github.com/ElishaBwire01/cybersecurity-dashboard](https://github.com/ElishaBwire01/cybersecurity-dashboard) | 🔧 In Development |
 | **Elisha Android App** | [github.com/ElishaBwire01/elisha-android-app](https://github.com/ElishaBwire01/elisha-android-app) | ✅ Complete |
 | **Kazi 24/7** | [github.com/ElishaBwire01/kazi-24-7](https://github.com/ElishaBwire01/kazi-24-7) | ✅ Complete |
@@ -162,8 +167,9 @@ With a strong foundation in Python, Java, and JavaScript, I create end-to-end so
 | **GitHub** | [@ElishaBwire01](https://github.com/ElishaBwire01) |
 | **Email** | [elishabwire563@gmail.com](mailto:elishabwire563@gmail.com) |
 | **Phone** | [+254 101 277 391](tel:+254101277391) |
-| **Portfolio** | [portfolio-elisha-program.vercel.app](https://portfolio-elisha-program.vercel.app) |
-| **AI Chat** | [portfolio-64odlr5qo-elisha-program.vercel.app](https://portfolio-64odlr5qo-elisha-program.vercel.app) |
+| **WhatsApp** | [Chat on WhatsApp](https://wa.me/254101277391) |
+| **Portfolio** | [elisha-portfolio-five.vercel.app](https://elisha-portfolio-five.vercel.app) |
+| **AI Chat** | [elisha-ai-explainer.vercel.app](https://elisha-ai-explainer.vercel.app) |
 | **LinkedIn** | [linkedin.com/in/elishabwire](https://linkedin.com/in/elishabwire) |
 
 ---
@@ -187,7 +193,8 @@ With a strong foundation in Python, Java, and JavaScript, I create end-to-end so
 | **Experience** | Entry-Level with Strong Project Portfolio |
 | **Core Skills** | Python, Django, Android, Java, AI, Docker, Full-Stack |
 | **Projects** | 5+ Real-World Projects with Live Demos |
-| **Portfolio** | [portfolio-elisha-program.vercel.app](https://portfolio-elisha-program.vercel.app) |
+| **Portfolio** | [elisha-portfolio-five.vercel.app](https://elisha-portfolio-five.vercel.app) |
+| **AI Chat** | [elisha-ai-explainer.vercel.app](https://elisha-ai-explainer.vercel.app) |
 | **Availability** | Open to Full-time, Internship, and Freelance Opportunities |
 
 ---
