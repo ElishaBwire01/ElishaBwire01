@@ -34,6 +34,23 @@ What sets me apart is my ability to integrate AI, web, and mobile technologies i
 
 ---
 
+## 🎯 Technical Capabilities
+
+| Capability | Experience |
+|------------|------------|
+| Full-Stack Development | ✅ |
+| Android Development | ✅ |
+| AI Integration | ✅ |
+| REST APIs | ✅ |
+| Local LLM Deployment | ✅ |
+| Database Design | ✅ |
+| Git & GitHub | ✅ |
+| Docker | ✅ |
+| Secure Development | ✅ |
+| Cloud Deployment | ✅ |
+
+---
+
 ## 🔧 Current Focus
 
 - 🧠 Building AI-powered applications with local LLMs
@@ -47,8 +64,8 @@ What sets me apart is my ability to integrate AI, web, and mobile technologies i
 
 | Category | Skills |
 |----------|--------|
-| **Languages** | Python, Java, JavaScript, HTML, CSS |
-| **Frameworks** | Django, Flask, Android SDK, Gradle |
+| **Languages** | Python, Java, JavaScript, HTML, CSS, SQL |
+| **Frameworks & Platforms** | Django, Flask, Android SDK, Gradle, REST APIs |
 | **AI/ML** | Ollama, Transformers, PyTorch, Pollinations.ai |
 | **Cybersecurity** | Malware Analysis, Phishing Detection, Secure Development |
 | **DevOps** | Docker, Git, GitHub Actions, Cloudflare |
@@ -147,36 +164,41 @@ What sets me apart is my ability to integrate AI, web, and mobile technologies i
 
 ## 🏆 Key Achievements
 
-### AI & Integration
-- ✅ Built and deployed AI-powered applications integrating 12+ models including Llama 3.2, Mistral, TinyLlama, and GPT-OSS
-- ✅ Developed conversational AI systems with memory and multi-model support
-- ✅ Implemented local LLM workflows using Ollama for offline AI capabilities
-- ✅ Connected frontend, backend, and AI services into end-to-end solutions
-- ✅ Integrated multiple AI APIs with backend services and web applications
-- ✅ Built systems that connect AI models, databases, and frontend interfaces
-- ✅ Developed cross-API workflows for intelligent automation
+### 🏗️ Software Engineering
+- ✅ Built and maintained 6+ public software projects from concept to deployment
+- ✅ Designed applications using MVC architecture with Django
+- ✅ Implemented authentication, database management, and API integrations
+- ✅ Developed reusable and maintainable codebases using Git version control
 
-### Software Development
-- ✅ Designed and deployed full-stack web applications using Django and Flask
-- ✅ Developed Android applications using Java and Android SDK with Material Design
-- ✅ Built responsive user interfaces with HTML, CSS, and JavaScript
-- ✅ Created REST API integrations between multiple services and platforms
+### 🤖 AI Engineering
+- ✅ Integrated 12+ AI models into production-ready applications
+- ✅ Built local AI systems using Ollama and open-source LLMs
+- ✅ Developed AI-powered analysis tools for files, URLs, images, and conversations
+- ✅ Created multi-model AI workflows with memory and context handling
 
-### Cybersecurity
-- ✅ Developed security-focused software projects with secure coding practices
-- ✅ Built tools for threat analysis and security research applications
-- ✅ Integrated AI techniques into security analysis workflows
+### 📱 Android Development
+- ✅ Built Android applications using Java, Android SDK, and Gradle
+- ✅ Designed responsive mobile interfaces following Material Design principles
+- ✅ Generated signed APK builds for deployment and testing
+- ✅ Implemented custom animations and interactive UI components
 
-### DevOps & Infrastructure
-- ✅ Configured automated workflows using Git and GitHub Actions
-- ✅ Containerized applications using Docker for consistent deployment
-- ✅ Deployed and maintained applications on Vercel and cloud platforms
+### 🔐 Security Engineering
+- ✅ Applied secure coding principles across web and mobile projects
+- ✅ Developed security analysis and threat-assessment tools
+- ✅ Implemented input validation and secure application practices
+- ✅ Researched cybersecurity concepts and defensive security techniques
 
-### Portfolio & Professional
-- ✅ Published live software projects with public demonstrations
-- ✅ Built a professional developer portfolio website
-- ✅ Created cross-platform solutions spanning web and mobile environments
-- ✅ Demonstrated self-directed learning across AI, cybersecurity, and software development
+### ☁️ DevOps & Deployment
+- ✅ Deployed applications using Vercel and Cloudflare services
+- ✅ Used GitHub Actions for workflow automation
+- ✅ Containerized applications with Docker
+- ✅ Managed project versioning and collaborative development workflows
+
+### 📈 Professional Strengths
+- ✅ Self-taught developer with publicly verifiable projects
+- ✅ Experience across AI, web, mobile, and security domains
+- ✅ Strong problem-solving and rapid learning ability
+- ✅ Proven ability to take projects from idea to working deployment
 
 ---
 
