@@ -2,7 +2,7 @@
 
 # 🛡️ ELISHA BWIRE
 
-### Cybersecurity Engineer | AI Integration Specialist | Full-Stack Developer
+### AI Integration Specialist | Full-Stack Developer | Cybersecurity Enthusiast
 
 [![GitHub followers](https://img.shields.io/github/followers/ElishaBwire01?style=for-the-badge&logo=github&color=00ff9d)](https://github.com/ElishaBwire01)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://elisha-portfolio-five.vercel.app)
@@ -17,16 +17,16 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Cybersecurity Engineer** and **AI Integration Specialist** from **Mombasa, Kenya**. I build intelligent security solutions using local LLMs and full-stack technologies. My passion lies at the intersection of security, artificial intelligence, and practical application development.
+I'm an **AI Integration Specialist** and **Full-Stack Developer** from **Mombasa, Kenya** with a strong interest in cybersecurity. I build intelligent applications that combine AI capabilities with practical software solutions. My work spans the entire development stack—from Android apps to AI-powered web platforms.
 
-With a strong foundation in Python, Java, and JavaScript, I create end-to-end solutions that address real-world challenges. My expertise spans threat detection, AI model deployment, and cross-platform application development.
+What sets me apart is my ability to work across multiple domains: developing Android applications in Java, building full-stack web apps with Django and Python, integrating AI models (both local and cloud-based), and deploying production-ready applications.
 
 ### What I Do
 
-- 🔐 **Cybersecurity** - Threat detection, malware analysis, security automation
-- 🤖 **AI Integration** - Local LLM deployment with Ollama, model fine-tuning
-- 🌐 **Full-Stack Development** - Django, Flask, Android apps
-- ☁️ **DevOps** - Docker, GitHub Actions, Cloudflare tunnels
+- 🤖 **AI Integration** - Local LLM deployment with Ollama, API integrations, multi-model support
+- 🌐 **Full-Stack Development** - Django, Flask, responsive web applications
+- 📱 **Android Development** - Java, Android SDK, Gradle, Material Design
+- 🔐 **Cybersecurity** - Secure coding practices, threat analysis tools, security research
 
 ---
 
@@ -34,10 +34,10 @@ With a strong foundation in Python, Java, and JavaScript, I create end-to-end so
 
 | Category | Skills |
 |----------|--------|
-| **Languages** | Python 95%, Java 85%, HTML/CSS 80%, JavaScript 75% |
+| **Languages** | Python, Java, JavaScript, HTML/CSS |
 | **Frameworks** | Django, Flask, Android SDK, Gradle |
-| **AI/ML** | Ollama, Transformers, PyTorch |
-| **Cybersecurity** | Malware Analysis, Phishing Detection, Social Engineering |
+| **AI/ML** | Ollama, Transformers, PyTorch, Pollinations.ai |
+| **Cybersecurity** | Malware Analysis, Phishing Detection, Secure Development |
 | **DevOps** | Docker, Git, GitHub Actions, Cloudflare |
 | **Deployment** | Vercel, Netlify, Cloudflare Pages |
 
@@ -51,7 +51,7 @@ With a strong foundation in Python, Java, and JavaScript, I create end-to-end so
 | Feature | Description |
 |---------|-------------|
 | **Analysis** | File, URL, image, and chat analysis capabilities |
-| **AI Integration** | 12+ AI models (TinyLlama, Llama 3.2, Mistral, GPT-OSS) |
+| **AI Integration** | 12+ AI models (Llama 3.2, Mistral, TinyLlama, GPT-OSS) |
 | **Intelligence** | AI assistant with conversation memory |
 | **Interface** | Desktop-style responsive UI |
 
@@ -122,6 +122,43 @@ With a strong foundation in Python, Java, and JavaScript, I create end-to-end so
 
 ---
 
+## 🏆 Key Achievements
+
+### AI & Integration
+- ✅ Built and deployed AI-powered web applications with 12+ integrated models including Llama 3.2, Mistral, TinyLlama, and GPT-OSS
+- ✅ Developed conversational AI systems with persistent memory and multi-model support
+- ✅ Connected frontend, backend, and AI services into unified end-to-end solutions
+- ✅ Implemented local LLM workflows using Ollama for offline AI capabilities
+- ✅ Created Python-based AI automation tools and security analysis features
+
+### Software Development
+- ✅ Designed and deployed full-stack web applications using Django and Flask
+- ✅ Developed Android applications using Java and Android SDK with Material Design
+- ✅ Built responsive user interfaces with HTML, CSS, and JavaScript
+- ✅ Created REST API integrations between multiple services and platforms
+- ✅ Managed application deployments using Vercel and related platforms
+- ✅ Maintained multiple active software repositories on GitHub
+
+### Cybersecurity
+- ✅ Developed security-focused software projects with secure coding practices
+- ✅ Built tools for threat analysis and security research applications
+- ✅ Applied secure development principles across all projects
+- ✅ Integrated AI techniques into security analysis workflows
+
+### DevOps & Infrastructure
+- ✅ Configured automated development workflows using Git and GitHub
+- ✅ Containerized applications using Docker for consistent deployment
+- ✅ Deployed and maintained cloud-hosted applications
+- ✅ Implemented development and testing environments for projects
+
+### Portfolio & Professional
+- ✅ Published live software projects with public demonstrations
+- ✅ Built a professional developer portfolio website
+- ✅ Created cross-platform solutions spanning web and mobile environments
+- ✅ Demonstrated self-directed learning across AI, cybersecurity, and software development
+
+---
+
 ## 📊 GitHub Analytics
 
 <img src="https://github-readme-stats.vercel.app/api?username=ElishaBwire01&show_icons=true&theme=dark&bg_color=0a0e27&title_color=00ff9d&icon_color=00b7ff&text_color=ffffff" width="48%" />
@@ -129,22 +166,6 @@ With a strong foundation in Python, Java, and JavaScript, I create end-to-end so
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElishaBwire01&layout=compact&theme=dark&bg_color=0a0e27&title_color=00ff9d&text_color=ffffff" width="48%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElishaBwire01&theme=dark&background=0a0e27&ring=00ff9d&fire=00b7ff&currStreakLabel=00ff9d" width="96%" />
-
----
-
-## 🏆 Professional Achievements
-
-| # | Achievement |
-|---|-------------|
-| ✅ | Production-ready AI security platform deployed |
-| ✅ | 12+ LLM models successfully integrated |
-| ✅ | Cross-platform apps (Web + Mobile) developed |
-| ✅ | Local AI deployment with Ollama mastered |
-| ✅ | Universal Android build system created |
-| ✅ | Active GitHub contributor with 5+ repositories |
-| ✅ | Live AI chat assistant deployed |
-| ✅ | Full-stack developer with security expertise |
-| ✅ | Portfolio website with live demos |
 
 ---
 
@@ -188,7 +209,7 @@ With a strong foundation in Python, Java, and JavaScript, I create end-to-end so
 
 | Aspect | Details |
 |--------|---------|
-| **Role** | Cybersecurity Engineer & AI Integration Specialist |
+| **Role** | AI Integration Specialist & Full-Stack Developer |
 | **Location** | Mombasa, Kenya |
 | **Experience** | Entry-Level with Strong Project Portfolio |
 | **Core Skills** | Python, Django, Android, Java, AI, Docker, Full-Stack |
@@ -205,7 +226,7 @@ With a strong foundation in Python, Java, and JavaScript, I create end-to-end so
 - 🐍 Python Developer
 - 📱 Android Developer
 - 🤖 AI Integration Specialist
-- 🔐 Junior Cybersecurity Engineer
+- 🔐 Junior Cybersecurity Analyst
 - 🌍 Remote or On-site (Mombasa, Kenya)
 
 ---
@@ -218,6 +239,7 @@ With a strong foundation in Python, Java, and JavaScript, I create end-to-end so
 ✅ **Problem Solver** - I build practical solutions to real-world problems.  
 ✅ **Continuous Learner** - I'm constantly improving and expanding my skills.  
 ✅ **Security-Focused** - All my projects are built with security in mind.  
+✅ **Full-Stack Versatility** - I work across web, mobile, and AI domains.  
 
 ---
 
