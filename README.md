@@ -2,7 +2,7 @@
 
 # 🛡️ ELISHA BWIRE
 
-### AI Integration Developer | Full-Stack Developer | Security-Oriented Developer
+### AI Integration Engineer | Full-Stack Developer | Security-Focused Developer
 
 [![GitHub followers](https://img.shields.io/github/followers/ElishaBwire01?style=for-the-badge&logo=github&color=00ff9d)](https://github.com/ElishaBwire01)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://elisha-portfolio-five.vercel.app)
@@ -17,20 +17,22 @@
 
 ## 👨‍💻 About Me
 
-I'm an **AI Integration Developer** and **Full-Stack Developer** from **Mombasa, Kenya** with a strong focus on building secure, intelligent applications. My work spans the entire development stack—from Android apps to AI-powered web platforms.
+I'm an **AI Integration Engineer** and **Full-Stack Developer** from **Mombasa, Kenya** with a strong focus on building secure, intelligent applications. My work spans the entire development stack—from Android apps to AI-powered web platforms.
 
-What sets me apart is my ability to integrate AI, web, and mobile technologies into complete end-to-end solutions. I don't just learn technologies in isolation—I combine them to build real, working systems that solve actual problems.
+What sets me apart is my ability to integrate AI, web, and mobile technologies into complete end-to-end solutions. I design and build complete software systems by integrating AI, web, mobile, and security technologies into practical real-world solutions.
 
 ---
 
 ## ⚡ Engineering Highlights
 
 - 🚀 Built and deployed 6+ software projects across web, mobile, and AI
-- 🤖 Integrated 12+ AI models into a unified security analysis platform
+- 🤖 Integrated 12+ AI models including Llama 3.2, Mistral, TinyLlama, and GPT-OSS
 - 📱 Developed Android, Web, and AI applications from concept to deployment
 - 🖥️ Worked with local (Ollama) and cloud AI deployments
 - 🔗 Designed end-to-end systems from frontend to backend
 - 🔄 Experience with AI APIs, REST APIs, and model orchestration
+- 🌐 Developed and deployed public applications with real users and active engagement
+- 🏗️ Built complete software systems independently from planning to deployment
 
 ---
 
@@ -48,6 +50,8 @@ What sets me apart is my ability to integrate AI, web, and mobile technologies i
 | Docker | ✅ |
 | Secure Development | ✅ |
 | Cloud Deployment | ✅ |
+| Unit Testing | ✅ |
+| System Design | ✅ |
 
 ---
 
@@ -66,6 +70,8 @@ What sets me apart is my ability to integrate AI, web, and mobile technologies i
 |----------|--------|
 | **Languages** | Python, Java, JavaScript, HTML, CSS, SQL |
 | **Frameworks & Platforms** | Django, Flask, Android SDK, Gradle, REST APIs |
+| **Databases** | SQLite, PostgreSQL, MySQL |
+| **Testing** | Unit Testing, Django Testing Framework |
 | **AI/ML** | Ollama, Transformers, PyTorch, Pollinations.ai |
 | **Cybersecurity** | Malware Analysis, Phishing Detection, Secure Development |
 | **DevOps** | Docker, Git, GitHub Actions, Cloudflare |
@@ -87,7 +93,7 @@ What sets me apart is my ability to integrate AI, web, and mobile technologies i
 | **Intelligence** | AI assistant with conversation memory |
 | **Interface** | Desktop-style responsive UI |
 
-**Tech Stack:** Django, Python, Ollama, JavaScript, HTML, CSS
+**Tech Stack:** Django, Python, Ollama, JavaScript, HTML, CSS, SQLite
 
 🔗 [View Project](https://github.com/ElishaBwire01/cybersecurity-dashboard)
 
@@ -104,7 +110,7 @@ What sets me apart is my ability to integrate AI, web, and mobile technologies i
 | **Discipline Metrics** | Measure consistency and habits |
 | **User Experience** | Simple and focused productivity workflow |
 
-**Tech Stack:** Python, Django, HTML, CSS, JavaScript
+**Tech Stack:** Python, Django, HTML, CSS, JavaScript, SQLite
 
 🔗 [View Project](https://github.com/ElishaBwire01/-discipline-system)
 
@@ -169,9 +175,10 @@ What sets me apart is my ability to integrate AI, web, and mobile technologies i
 - ✅ Designed applications using MVC architecture with Django
 - ✅ Implemented authentication, database management, and API integrations
 - ✅ Developed reusable and maintainable codebases using Git version control
+- ✅ Designed scalable multi-service architectures integrating AI, databases, and web applications
 
 ### 🤖 AI Engineering
-- ✅ Integrated 12+ AI models into production-ready applications
+- ✅ Integrated 12+ AI models including Llama 3.2, Mistral, TinyLlama, and GPT-OSS into software projects
 - ✅ Built local AI systems using Ollama and open-source LLMs
 - ✅ Developed AI-powered analysis tools for files, URLs, images, and conversations
 - ✅ Created multi-model AI workflows with memory and context handling
@@ -263,9 +270,9 @@ What sets me apart is my ability to integrate AI, web, and mobile technologies i
 
 | Aspect | Details |
 |--------|---------|
-| **Role** | AI Integration Developer & Full-Stack Developer |
+| **Role** | AI Integration Engineer & Full-Stack Developer |
 | **Location** | Mombasa, Kenya |
-| **Experience** | Entry-Level with Strong Project Portfolio |
+| **Experience** | Self-Taught Developer with 6+ Public Projects |
 | **Core Skills** | Python, Django, Android, Java, AI, Docker, Full-Stack |
 | **Projects** | 6+ Real-World Projects with Live Demos |
 | **Portfolio** | [elisha-portfolio-five.vercel.app](https://elisha-portfolio-five.vercel.app) |
@@ -279,7 +286,7 @@ What sets me apart is my ability to integrate AI, web, and mobile technologies i
 - 💼 Full-Stack Developer
 - 🐍 Python Developer
 - 📱 Android Developer
-- 🤖 AI Integration Developer
+- 🤖 AI Integration Engineer
 - 🔐 Junior Cybersecurity Analyst
 - 🌍 Remote or On-site (Mombasa, Kenya)
 
@@ -298,7 +305,7 @@ What sets me apart is my ability to integrate AI, web, and mobile technologies i
 
 ---
 
-*"I don't just learn technologies in isolation—I combine them to build real, working systems that solve actual problems."*
+*"I design and build complete software systems by integrating AI, web, mobile, and security technologies into practical real-world solutions."*
 
 ---
 
