@@ -8,7 +8,7 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://elisha-portfolio-five.vercel.app)
 [![AI Chat](https://img.shields.io/badge/🤖_AI_Explainer-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://elisha-ai-explainer.vercel.app)
 [![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254101277391)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elishabwire)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/elisha-bwire-a4a508315)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elishabwire563@gmail.com)
 
 </div>
