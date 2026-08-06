@@ -220,6 +220,7 @@ Making AI accessible through conversational interaction.
 
 - 🚀 6+ public repositories with functional applications
 - 🤖 12+ AI models integrated using Ollama (Llama 3.2, Mistral, TinyLlama, GPT-OSS)
+- "An AI-powered School Intelligence Platform that helps educators make faster, more informed, and policy-aware decisions by analyzing school data, identifying at-risk students, and providing actionable recommendations."
 - 📱 2+ Android applications built with Java and Android SDK
 - 🖥️ Local (Ollama) and cloud AI deployments
 - 🔗 End-to-end system design from frontend to backend
