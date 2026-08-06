@@ -96,174 +96,261 @@ flowchart TD
     B --> C[REST API Layer<br/>Authentication & Authorization]
     B --> D[AI Integration<br/>Ollama + Local LLMs]
     B --> E[PostgreSQL Database<br/>Multi-tenant Ready]
-    
+
     style A fill:#00ff9d,color:#000
     style B fill:#00b7ff,color:#000
     style C fill:#ff6b6b,color:#fff
     style D fill:#ffd93d,color:#000
     style E fill:#6c5ce7,color:#fff
-🚀 Featured Projects
-🔐 Cybersecurity Dashboard
+```
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 Cybersecurity Dashboard
+
 Helping users analyze files, URLs, and conversations using multiple AI models.
 
-Tech: Django • Ollama • SQLite
+**Tech:** Django • Ollama • SQLite
 
 <img src="images/cybersecurity-dashboard.png" alt="Cybersecurity Dashboard Screenshot" width="800"/>
-Feature	Description
-Analysis	File, URL, image, and conversation analysis
-AI Models	12+ integrated models (Llama 3.2, Mistral, TinyLlama, GPT-OSS)
-Memory	AI assistant with conversation memory
-UI	Desktop-style responsive dashboard
-🟢 Live Demo (Coming Soon)
-🔗 Repository
 
-🎓 AI School Discipline System
+| Feature | Description |
+|---------|-------------|
+| Analysis | File, URL, image, and conversation analysis |
+| AI Models | 12+ integrated models (Llama 3.2, Mistral, TinyLlama, GPT-OSS) |
+| Memory | AI assistant with conversation memory |
+| UI | Desktop-style responsive dashboard |
+
+🟢 Live Demo (Coming Soon)
+🔗 [Repository](https://github.com/ElishaBwire01/cybersecurity-dashboard)
+
+---
+
+### 🎓 AI School Discipline System
+
 Helping educators make informed decisions through AI-driven behaviour predictions.
 
-Tech: Django • Python • SQLite
+**Tech:** Django • Python • SQLite
 
-Feature	Description
-AI Predictions	Behaviour insights and recommendations
-Dashboard	Teacher dashboard with student management
-Administration	School administration and reporting tools
-🔗 Repository
+| Feature | Description |
+|---------|-------------|
+| AI Predictions | Behaviour insights and recommendations |
+| Dashboard | Teacher dashboard with student management |
+| Administration | School administration and reporting tools |
 
-🎯 Discipline System
+🔗 [Repository](https://github.com/ElishaBwire01/-discipline-system)
+
+---
+
+### 🎯 Discipline System
+
 Helping individuals track goals and build consistent habits.
 
-Tech: Python • Django • SQLite
+**Tech:** Python • Django • SQLite
 
 <img src="images/discipline-system.png" alt="Discipline System Screenshot" width="800"/>
-Feature	Description
-Task Management	Goal tracking and progress monitoring
-Metrics	Discipline metrics and consistency measurement
-UX	Simple, focused productivity workflow
-🔗 Repository
 
-📱 Elisha Android App
+| Feature | Description |
+|---------|-------------|
+| Task Management | Goal tracking and progress monitoring |
+| Metrics | Discipline metrics and consistency measurement |
+| UX | Simple, focused productivity workflow |
+
+🔗 [Repository](https://github.com/ElishaBwire01/-discipline-system)
+
+---
+
+### 📱 Elisha Android App
+
 Demonstrating modern Android development with custom animations.
 
-Tech: Java • Android SDK • Gradle
+**Tech:** Java • Android SDK • Gradle
 
 <img src="images/android-app.png" alt="Android App Screenshot" width="400"/>
-Feature	Description
-UI Design	Gradient UI with custom animations
-Interactivity	Pulse and bounce effects
-Design	Professional Material Design principles
-🔗 Repository
 
-💼 Kazi 24/7 Job Platform
+| Feature | Description |
+|---------|-------------|
+| UI Design | Gradient UI with custom animations |
+| Interactivity | Pulse and bounce effects |
+| Design | Professional Material Design principles |
+
+🔗 [Repository](https://github.com/ElishaBwire01/elisha-android-app)
+
+---
+
+### 💼 Kazi 24/7 Job Platform
+
 Connecting job seekers with employment opportunities in Kenya.
 
-Tech: HTML • CSS • JavaScript
+**Tech:** HTML • CSS • JavaScript
 
 <img src="images/kazi-247.png" alt="Kazi 24/7 Screenshot" width="800"/>
-Feature	Description
-Platform	Job listing and discovery platform
-UX	User-friendly interface design
-🔗 Repository
 
-🤖 AI Explainer Chat
+| Feature | Description |
+|---------|-------------|
+| Platform | Job listing and discovery platform |
+| UX | User-friendly interface design |
+
+🔗 [Repository](https://github.com/ElishaBwire01/kazi-24-7)
+
+---
+
+### 🤖 AI Explainer Chat
+
 Making AI accessible through conversational interaction.
 
-Tech: HTML • CSS • JavaScript • Pollinations.ai API
+**Tech:** HTML • CSS • JavaScript • Pollinations.ai API
 
 <img src="images/ai-explainer.png" alt="AI Explainer Chat Screenshot" width="800"/>
-Feature	Description
-AI Persona	Personal AI reflection of Elisha Bwire
-Interface	Real-time conversational AI interface
-Design	Tech-animated immersive background
-🟢 Live Demo
-🔗 Repository
 
-⚡ Engineering Evidence
-🚀 6+ public repositories with functional applications
+| Feature | Description |
+|---------|-------------|
+| AI Persona | Personal AI reflection of Elisha Bwire |
+| Interface | Real-time conversational AI interface |
+| Design | Tech-animated immersive background |
 
-🤖 12+ AI models integrated using Ollama (Llama 3.2, Mistral, TinyLlama, GPT-OSS)
+🟢 [Live Demo](https://elisha-ai-explainer.vercel.app)
+🔗 [Repository](https://github.com/ElishaBwire01/ai-explainer-chat)
 
-📱 2+ Android applications built with Java and Android SDK
+---
 
-🖥️ Local (Ollama) and cloud AI deployments
+## ⚡ Engineering Evidence
 
-🔗 End-to-end system design from frontend to backend
+- 🚀 6+ public repositories with functional applications
+- 🤖 12+ AI models integrated using Ollama (Llama 3.2, Mistral, TinyLlama, GPT-OSS)
+- 📱 2+ Android applications built with Java and Android SDK
+- 🖥️ Local (Ollama) and cloud AI deployments
+- 🔗 End-to-end system design from frontend to backend
+- 🔄 REST API development and model orchestration
+- 🐳 Dockerized applications for consistent deployment
+- 🔐 Role-based authentication systems
+- 📊 Multi-tenant architecture design
+- 🌐 Public applications with real users and active engagement
 
-🔄 REST API development and model orchestration
+---
 
-🐳 Dockerized applications for consistent deployment
+## 🎯 Technical Skills
 
-🔐 Role-based authentication systems
+| Category | Technologies |
+|----------|-------------|
+| Backend | Django, Flask, REST APIs, Django REST Framework |
+| AI Integration | Ollama, Llama 3.2, Mistral, TinyLlama, GPT-OSS |
+| Frontend | HTML, CSS, JavaScript, Responsive Design |
+| Android | Java, Android SDK, Gradle, Material Design |
+| DevOps | Docker, Git, GitHub Actions, Cloudflare, Vercel |
+| Databases | PostgreSQL, MySQL, SQLite |
+| Cloud | Vercel, Cloudflare, AWS Fundamentals |
 
-📊 Multi-tenant architecture design
+---
 
-🌐 Public applications with real users and active engagement
+## 🌍 My Vision
 
-🎯 Technical Skills
-Category	Technologies
-Backend	Django, Flask, REST APIs, Django REST Framework
-AI Integration	Ollama, Llama 3.2, Mistral, TinyLlama, GPT-OSS
-Frontend	HTML, CSS, JavaScript, Responsive Design
-Android	Java, Android SDK, Gradle, Material Design
-DevOps	Docker, Git, GitHub Actions, Cloudflare, Vercel
-Databases	PostgreSQL, MySQL, SQLite
-Cloud	Vercel, Cloudflare, AWS Fundamentals
-🌍 My Vision
 To establish a software company that develops intelligent digital solutions for healthcare, education, community welfare, churches, finance, agriculture, government, and NGOs — using AI, cloud technologies, mobile applications, and secure software engineering.
 
-🏆 Hackathons
-Current: Build with Gemini XPRIZE • ML Empowerment Build Challenge 2.0
-Interested in: AI • Open Source • Team Collaboration • Building impactful solutions
+---
 
-📈 What I'm Looking For
+## 🏆 Hackathons
+
+**Current:** Build with Gemini XPRIZE • ML Empowerment Build Challenge 2.0
+
+**Interested in:** AI • Open Source • Team Collaboration • Building impactful solutions
+
+---
+
+## 📈 What I'm Looking For
+
 💼 Software Engineering Internships • 🤖 AI Engineering Roles • 🌐 Open Source Collaboration • 🏆 Hackathons • 🎓 Graduate Programs • 💻 Full-Stack Development Roles
 
-📊 GitHub Analytics
-<img src="https://github-readme-stats.vercel.app/api?username=ElishaBwire01&show_icons=true&theme=dark&bg_color=0a0e27&title_color=00ff9d&icon_color=00b7ff&text_color=ffffff" width="48%" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElishaBwire01&layout=compact&theme=dark&bg_color=0a0e27&title_color=00ff9d&text_color=ffffff" width="48%" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=ElishaBwire01&theme=dark&background=0a0e27&ring=00ff9d&fire=00b7ff&currStreakLabel=00ff9d" width="96%" />
+---
+
+## 📊 GitHub Analytics
+
+<img src="https://github-readme-stats.vercel.app/api?username=ElishaBwire01&show_icons=true&theme=dark&bg_color=0a0e27&title_color=00ff9d&icon_color=00b7ff&text_color=ffffff" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElishaBwire01&layout=compact&theme=dark&bg_color=0a0e27&title_color=00ff9d&text_color=ffffff" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ElishaBwire01&theme=dark&background=0a0e27&ring=00ff9d&fire=00b7ff&currStreakLabel=00ff9d" width="96%" />
+
 https://github-readme-activity-graph.vercel.app/graph?username=ElishaBwire01&theme=react-dark
 
 https://github-profile-trophy.vercel.app/?username=ElishaBwire01&theme=darkhub&no-frame=true&row=1
 
-🌐 Live Projects
-Project	URL	Status
-Portfolio	elisha-portfolio-five.vercel.app	✅ Live
-AI Explainer	elisha-ai-explainer.vercel.app	✅ Live
-Cybersecurity Dashboard	github.com/ElishaBwire01/cybersecurity-dashboard	🔧 Dev
-Discipline System	github.com/ElishaBwire01/-discipline-system	✅ Complete
-Android App	github.com/ElishaBwire01/elisha-android-app	✅ Complete
-Kazi 24/7	github.com/ElishaBwire01/kazi-24-7	✅ Complete
-📫 Connect With Me
-Platform	Details
-GitHub	@ElishaBwire01
-Email	elishabwire563@gmail.com
-WhatsApp	Chat on WhatsApp
-Portfolio	elisha-portfolio-five.vercel.app
-LinkedIn	linkedin.com/in/elisha-bwire
-<div align="center">
+---
+
+## 🌐 Live Projects
+
+| Project | URL | Status |
+|---------|-----|--------|
+| Portfolio | [elisha-portfolio-five.vercel.app](https://elisha-portfolio-five.vercel.app) | ✅ Live |
+| AI Explainer | [elisha-ai-explainer.vercel.app](https://elisha-ai-explainer.vercel.app) | ✅ Live |
+| Cybersecurity Dashboard | [github.com/ElishaBwire01/cybersecurity-dashboard](https://github.com/ElishaBwire01/cybersecurity-dashboard) | 🔧 Dev |
+| Discipline System | [github.com/ElishaBwire01/-discipline-system](https://github.com/ElishaBwire01/-discipline-system) | ✅ Complete |
+| Android App | [github.com/ElishaBwire01/elisha-android-app](https://github.com/ElishaBwire01/elisha-android-app) | ✅ Complete |
+| Kazi 24/7 | [github.com/ElishaBwire01/kazi-24-7](https://github.com/ElishaBwire01/kazi-24-7) | ✅ Complete |
+
+---
+
+## 📫 Connect With Me
+
+| Platform | Details |
+|----------|---------|
+| GitHub | @ElishaBwire01 |
+| Email | [elishabwire563@gmail.com](mailto:elishabwire563@gmail.com) |
+| WhatsApp | [Chat on WhatsApp](https://wa.me/254101277391) |
+| Portfolio | [elisha-portfolio-five.vercel.app](https://elisha-portfolio-five.vercel.app) |
+| LinkedIn | [linkedin.com/in/elisha-bwire](https://www.linkedin.com/in/elisha-bwire-a4a508315) |
+
 🚀 "Integrating AI, Web, and Mobile into complete solutions"
-<img src="https://komarev.com/ghpvc/?username=ElishaBwire01&color=00ff9d&style=for-the-badge" />
-📋 Quick Reference for Recruiters
-Aspect	Details
-Role	Full-Stack Developer & AI Integration Engineer
-Location	Mombasa, Kenya
-Experience	Self-Taught Developer with 6+ Public Projects
-Core Skills	Python, Django, Android, Java, AI, Docker, Full-Stack
-Portfolio	elisha-portfolio-five.vercel.app
-Availability	Open to Full-time, Internship, and Freelance Opportunities
-📌 Why Hire Me?
-✅ Real Projects — Functional, deployed applications you can test immediately
-✅ Clean Code — Well-documented, maintainable code with best practices
-✅ Problem Solver — Practical solutions to real-world problems
-✅ Continuous Learner — Constantly improving and expanding skills
-✅ Security-Focused — All projects built with security in mind
 
-☕ Fun Facts
-💡 I enjoy solving real-world problems • 🌍 I dream of building software used across Africa • 🤖 I enjoy experimenting with AI models • 📚 I'm always learning something new • 🤝 I enjoy collaborating with developers
+---
 
-📌 A Final Thought
+## 📋 Quick Reference for Recruiters
+
+| Aspect | Details |
+|--------|---------|
+| Role | Full-Stack Developer & AI Integration Engineer |
+| Location | Mombasa, Kenya |
+| Experience | Self-Taught Developer with 6+ Public Projects |
+| Core Skills | Python, Django, Android, Java, AI, Docker, Full-Stack |
+| Portfolio | [elisha-portfolio-five.vercel.app](https://elisha-portfolio-five.vercel.app) |
+| Availability | Open to Full-time, Internship, and Freelance Opportunities |
+
+---
+
+## 📌 Why Hire Me?
+
+- ✅ Real Projects — Functional, deployed applications you can test immediately
+- ✅ Clean Code — Well-documented, maintainable code with best practices
+- ✅ Problem Solver — Practical solutions to real-world problems
+- ✅ Continuous Learner — Constantly improving and expanding skills
+- ✅ Security-Focused — All projects built with security in mind
+
+---
+
+## ☕ Fun Facts
+
+- 💡 I enjoy solving real-world problems
+- 🌍 I dream of building software used across Africa
+- 🤖 I enjoy experimenting with AI models
+- 📚 I'm always learning something new
+- 🤝 I enjoy collaborating with developers
+
+---
+
+## 📌 A Final Thought
+
 "Great software isn't measured by the number of features it has, but by the number of lives it improves."
 
-🤝 Let's Build Together
+---
+
+## 🤝 Let's Build Together
+
 Interested in AI, full-stack development, or technology for communities? I'm always open to collaborating on impactful projects, internships, hackathons, and open-source initiatives. Let's build something meaningful together.
 
 ⭐ Star my repositories if you find my work interesting!
 
-</div> ```
+---
+
+<img src="https://komarev.com/ghpvc/?username=ElishaBwire01&color=00ff9d&style=for-the-badge" />
+
+</div>
