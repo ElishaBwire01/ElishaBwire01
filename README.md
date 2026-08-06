@@ -2,7 +2,9 @@
 
 # 🛡️ ELISHA BWIRE
 
-### AI Integration Engineer | Full-Stack Developer | Security-Focused Developer
+### AI Integration Engineer • Full-Stack Developer • Building Technology for Communities
+
+> *"Building intelligent software that solves real-world problems for communities across Africa."*
 
 [![GitHub followers](https://img.shields.io/github/followers/ElishaBwire01?style=for-the-badge&logo=github&color=00ff9d)](https://github.com/ElishaBwire01)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://elisha-portfolio-five.vercel.app)
@@ -12,6 +14,17 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elishabwire563@gmail.com)
 
 </div>
+
+---
+
+## 🚀 Current Status
+
+- 🎓 High School Graduate (Kenya)
+- 💻 Self-Taught Software Developer
+- 🤖 AI Integration Engineer
+- 🌍 Building open-source software for communities
+- 🏆 Active Hackathon Participant
+- 📚 Learning every day
 
 ---
 
@@ -53,11 +66,7 @@ Looking ahead, my vision extends beyond building software alone. I want to estab
 
 ### 🤝 Team Vision
 
-Equally important, I believe great technology is built by great teams.
-
-> **I want to build a network of talented people who can become my future teammates.**
-
-My goal is to collaborate with developers, designers, AI engineers, data scientists, mobile developers, backend and frontend developers, cybersecurity engineers, DevOps engineers, product designers, students, mentors, and researchers who share a passion for solving meaningful problems. Through hackathons, open-source projects, and professional collaboration, I hope to grow alongside people who are committed to building technology that creates lasting positive impact.
+Equally important, I believe great technology is built by great teams. My goal is to collaborate with developers, designers, AI engineers, data scientists, mobile developers, backend and frontend developers, cybersecurity engineers, DevOps engineers, product designers, students, mentors, and researchers who share a passion for solving meaningful problems. Through hackathons, open-source projects, and professional collaboration, I hope to grow alongside people who are committed to building technology that creates lasting positive impact.
 
 For me, software engineering is more than a career — it's a lifelong journey of continuous learning, innovation, and service. Every line of code I write brings me one step closer to creating solutions that empower people, strengthen communities, and inspire the next generation of innovators.
 
@@ -76,6 +85,16 @@ Every system I build follows four principles:
 
 ---
 
+## 💡 Principles I Follow
+
+- Build software that solves real problems.
+- Learn continuously.
+- Write secure and maintainable code.
+- Share knowledge openly.
+- Never stop improving.
+
+---
+
 ## 🌍 My Five-Year Vision
 
 My goal is to establish a software company that develops intelligent digital solutions for:
@@ -84,9 +103,13 @@ My goal is to establish a software company that develops intelligent digital sol
 
 ...using AI, cloud technologies, mobile applications, and secure software engineering.
 
-### 🏢 Long-Term Dream
+### 🏢 Long-Term Vision
 
-One day I hope to lead a software company that creates technology trusted by schools, hospitals, churches, governments, NGOs, businesses, and communities across **Africa and beyond**.
+Although I don't have a company name yet, I'm working toward building a software company focused on creating intelligent, secure, and scalable solutions for education, healthcare, welfare, churches, finance, agriculture, government, and businesses.
+
+My vision is to grow from an independent developer into a company that serves organizations across **Africa and beyond**. One day I hope to lead a software company that creates technology trusted by schools, hospitals, churches, governments, NGOs, businesses, and communities.
+
+Along the way, I want to build a network of talented people who can become my future teammates.
 
 ---
 
@@ -97,8 +120,6 @@ Beyond writing software, I believe the future of innovation is built through col
 Hackathons, open-source communities, and developer networks have shown me that the best ideas grow when talented people work together.
 
 My long-term goal isn't simply to become a better developer — it's to build a team of engineers, designers, researchers, and innovators who share a passion for solving meaningful problems.
-
-**I want to build a network of talented people who can become my future teammates.**
 
 Whether we're creating AI-powered applications, community platforms, educational tools, or software for organizations, I believe technology is at its best when it brings people together to create lasting impact.
 
@@ -156,12 +177,79 @@ I don't just build pages — I build systems.
 
 ---
 
+## 🌱 Core Values
+
+- 🎯 Solve real problems
+- 📚 Keep learning every day
+- 🤝 Build with integrity
+- 👤 Put users first
+- 📈 Design for scalability
+- 🔐 Build secure software
+- 🌍 Help communities through technology
+
+---
+
+## 🌍 Open Source Mission
+
+I believe knowledge grows when it is shared.
+
+I'm committed to building open-source software that helps schools, communities, organizations, and developers — while learning from the global developer community.
+
+---
+
+## ⚙️ My Development Process
+
+Idea
+↓
+Research
+↓
+System Design
+↓
+Development
+↓
+AI Integration
+↓
+Testing
+↓
+Deployment
+↓
+Continuous Improvement
+
+---
+
 ## 🔧 Current Focus
 
 - 🧠 Building AI-powered applications with local LLMs
 - 🚀 Learning advanced backend architecture and Django best practices
 - 🔒 Implementing security-first development practices
 - 🤖 Exploring agentic AI systems and multi-model orchestration
+
+---
+
+## 📚 Learning Now
+
+- Agentic AI
+- LangChain
+- MCP
+- RAG
+- Kubernetes
+- PostgreSQL
+- Docker
+- Cloud Deployment
+
+---
+
+## 🌍 Open Source Goals
+
+I want to build open-source software that helps:
+
+🏫 Schools
+🤝 Welfare Organizations
+⛪ Churches
+🏥 Hospitals
+🌱 Agriculture
+🏛️ Government
+🌍 Communities
 
 ---
 
@@ -182,10 +270,20 @@ I don't just build pages — I build systems.
 
 ## 🚧 Currently Building
 
-🔹 **Lakchogo Connect** — Community & Welfare Platform
-🔹 **Cybersecurity Dashboard** — AI-assisted threat analysis platform
-🔹 **AI-Powered School Discipline System** — Prediction & recommendation engine
-🔹 **AI Research** — Local LLM integration, AI agents, multi-model orchestration
+🔹 **Lakchogo Connect** — AI-powered Community & Welfare Management Platform
+🔹 **AI School Discipline Management System** — Behaviour prediction and recommendations
+🔹 **Cybersecurity Dashboard** — AI-assisted threat intelligence platform
+🔹 **AI Agents & Multi-Agent Systems** — Using Ollama and open-source LLMs
+🔹 **Church Livestream & Media Solutions**
+🔹 **Cross-platform software solutions** for education and communities
+
+---
+
+## 🚀 Future Products
+
+My long-term vision includes building software for:
+
+🏥 Hospital Management Systems • 🏫 School Management Systems • 🤝 Welfare & SACCO Platforms • ⛪ Church Management Systems • 💰 Financial Management Systems • 🌾 Agriculture Platforms • 🏛️ Government Digital Services • 🤖 Enterprise AI Solutions
 
 ---
 
@@ -201,10 +299,12 @@ I don't just build pages — I build systems.
 
 ---
 
-## 🚀 Featured Projects
+## 🌟 Flagship Project
 
 ### 🤝 Lakchogo Connect
-*Community & Welfare Management Platform*
+*AI-powered Community & Welfare Management Platform*
+
+Lakchogo Connect is designed to be the centerpiece of my portfolio — a complete, production-ready system built to help welfare organizations across Kenya and Africa manage their operations effectively.
 
 | Feature | Description |
 |---------|-------------|
@@ -212,8 +312,11 @@ I don't just build pages — I build systems.
 | **Finance & Reports** | Financial tracking and reporting tools |
 | **Authentication** | Secure member access and roles |
 | **AI Roadmap** | Planned AI-assisted features for community insights |
+| **Impact** | Designed for welfare organizations across Kenya and Africa |
 
 ---
+
+## 🚀 Featured Projects
 
 ### 🎓 AI-Powered School Discipline Management System
 *AI-Assisted Behaviour & Administration Platform*
@@ -383,6 +486,10 @@ Building AI-powered platforms
 ↓
 **Future:** Large-scale distributed systems
 
+### 📖 Currently Exploring
+
+`AI Agents` `LangChain` `MCP (Model Context Protocol)` `RAG Systems` `Docker` `Kubernetes` `PostgreSQL` `Cloud Deployment` `Software Architecture`
+
 ---
 
 ## 🎯 Areas of Interest
@@ -415,9 +522,37 @@ If you're passionate about:
 - 🌐 Open Source
 - 🔬 Research
 
-...I'd love to connect. **I want to build a network of talented people who can become my future teammates.**
+...I'd love to connect. I'm looking to build a network of talented people who can become future teammates.
 
 I'm also open to **hackathons**, **startup ideas**, **AI projects**, **community projects**, **freelance work**, **internships**, and **graduate programs**.
+
+### 🤝 What I'm Looking For
+
+I'm looking to connect with:
+
+- 🤖 AI Engineers
+- 🐍 Django Developers
+- 📱 Android Developers
+- 🎨 UI/UX Designers
+- ⚙️ DevOps Engineers
+- 🔐 Cybersecurity Engineers
+- 🎓 Students passionate about technology
+- 🔬 Researchers
+- 🚀 Startup founders
+- 🌐 Open-source contributors
+
+If you're interested in solving real-world problems together, I'd love to connect.
+
+### 💼 Open To
+
+✅ Internships
+✅ Graduate Programs
+✅ Full-Time Roles
+✅ Freelance Projects
+✅ Open Source Collaboration
+✅ Startup Collaboration
+✅ Hackathons
+✅ Research Projects
 
 ### 👥 Future Team
 
@@ -427,13 +562,19 @@ Developers. Designers. Researchers. AI Engineers. Students. Mentors. Problem Sol
 
 People who believe technology should improve communities.
 
-**I hope today's collaborators become tomorrow's teammates.**
-
 ---
 
 ## 🏆 Hackathons
 
-**Currently participating in:**
+I actively participate in hackathons because they challenge me to:
+
+- ⚡ Build quickly
+- 🤝 Collaborate with talented developers
+- 📚 Learn emerging technologies
+- 💡 Transform ideas into working products
+- 👥 Meet future teammates
+
+**Current Hackathons:**
 - Build with Gemini XPRIZE
 - ML Empowerment Build Challenge 2.0
 
@@ -472,6 +613,22 @@ Technology is most meaningful when it improves people's lives.
 
 ---
 
+## 📊 Project Statistics
+
+🏗️ Public Projects: 6+
+
+🤖 AI Models Integrated: 12+
+
+📱 Android Apps: 2+
+
+🌐 Live Deployments: 2+
+
+💻 Languages: 6+
+
+📂 GitHub Repositories: 20+
+
+---
+
 ## 📊 GitHub Analytics
 
 <img src="https://github-readme-stats.vercel.app/api?username=ElishaBwire01&show_icons=true&theme=dark&bg_color=0a0e27&title_color=00ff9d&icon_color=00b7ff&text_color=ffffff" width="48%" />
@@ -479,6 +636,14 @@ Technology is most meaningful when it improves people's lives.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElishaBwire01&layout=compact&theme=dark&bg_color=0a0e27&title_color=00ff9d&text_color=ffffff" width="48%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElishaBwire01&theme=dark&background=0a0e27&ring=00ff9d&fire=00b7ff&currStreakLabel=00ff9d" width="96%" />
+
+### 📈 Contribution Activity
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ElishaBwire01&theme=react-dark)
+
+### 🏅 GitHub Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ElishaBwire01&theme=darkhub&no-frame=true&row=1)](https://github.com/ElishaBwire01)
 
 ---
 
@@ -558,7 +723,36 @@ Technology is most meaningful when it improves people's lives.
 
 ---
 
+## ☕ Fun Facts
+
+- 💡 I enjoy solving real-world problems.
+- 🌍 I dream of building software used across Africa.
+- 🤖 I enjoy experimenting with AI models.
+- 📚 I'm always learning something new.
+- 🤝 I enjoy collaborating with developers.
+
+---
+
+## 📌 A Final Thought
+
+> *"Great software isn't measured by the number of features it has, but by the number of lives it improves."*
+
 *"Every repository represents a problem I wanted to solve. Every project teaches me something new. Every collaboration is an opportunity to build something bigger than any one person could create alone. If my work resonates with you, let's connect, learn, and build technology that leaves a lasting positive impact."*
+
+---
+
+## 🤝 Let's Build Together
+
+If you're:
+
+- building something exciting,
+- participating in hackathons,
+- looking for a teammate,
+- researching AI,
+- developing open source,
+- or creating software that helps communities,
+
+I'd love to connect. Today's collaborator could become tomorrow's teammate.
 
 ---
 
