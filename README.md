@@ -15,11 +15,49 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-I'm an **AI Integration Engineer** and **Full-Stack Developer** from **Mombasa, Kenya** with a strong focus on building secure, intelligent applications. My work spans the entire development stack—from Android apps to AI-powered web platforms.
+Hello! I'm **Elisha Bwire**, a self-taught **AI Integration Engineer**, **Full-Stack Developer**, and aspiring **Software Engineer** based in **Mombasa, Kenya**. I enjoy building technology that solves real-world problems and creates meaningful impact for communities.
 
-What sets me apart is my ability to integrate AI, web, and mobile technologies into complete end-to-end solutions. I design and build complete software systems by integrating AI, web, mobile, and security technologies into practical real-world solutions.
+My journey into software development began with curiosity and a desire to understand how technology works. What started with learning programming fundamentals has grown into designing and developing complete software systems that integrate artificial intelligence, web technologies, databases, and mobile applications.
+
+Over time, I have independently built projects ranging from AI-powered platforms and community management systems to education, productivity, cybersecurity, and employment solutions. Every project has strengthened my belief that technology should not only be innovative — it should solve practical problems faced by real people.
+
+One of my greatest passions is integrating AI into everyday software. I enjoy exploring how intelligent systems can assist decision-making, automate repetitive work, provide meaningful recommendations, and improve the way organizations operate. Whether using local large language models or cloud-based AI services, I continuously experiment with new technologies to build smarter and more efficient applications.
+
+### 🌍 My Mission
+
+> To build intelligent, secure, and practical software solutions that improve lives, strengthen communities, and create opportunities through technology.
+
+I am particularly interested in developing systems for:
+
+- 🎓 Education and schools
+- 🏥 Healthcare institutions
+- 🤝 Community welfare organizations
+- ⛪ Churches and faith-based organizations
+- 💰 Financial groups and SACCOs
+- 🌐 NGOs and social impact organizations
+- 🏪 Small and medium-sized businesses
+
+These are areas where I believe technology can make a lasting difference.
+
+Some of the projects I have developed include **Lakchogo Connect**, a community and welfare management platform; an **AI-Powered School Discipline Management System** that uses artificial intelligence to support educators with recommendations and decision-making; a **Cybersecurity Dashboard** with AI-assisted analysis capabilities; an **AI Explainer Chat** platform; **Kazi 24/7**, a job opportunity platform; and Android applications designed to provide modern mobile experiences.
+
+Beyond writing code, I enjoy learning new technologies, experimenting with AI models, improving software architecture, strengthening cybersecurity practices, and contributing to open-source communities. Every new project is an opportunity to become a better engineer and solve increasingly complex challenges.
+
+### 🏢 Future Vision
+
+Looking ahead, my vision extends beyond building software alone. I want to establish a technology company that develops innovative digital solutions for organizations across Africa and beyond — including education systems, healthcare systems, welfare systems, church management systems, financial platforms, AI platforms, government solutions, and enterprise software. I believe the biggest challenges in education, healthcare, finance, community management, and public services can be addressed through thoughtful software engineering and responsible AI integration.
+
+### 🤝 Team Vision
+
+Equally important, I believe great technology is built by great teams.
+
+> **I want to build a network of talented people who can become my future teammates.**
+
+My goal is to collaborate with developers, designers, AI engineers, data scientists, mobile developers, backend and frontend developers, cybersecurity engineers, DevOps engineers, product designers, students, mentors, and researchers who share a passion for solving meaningful problems. Through hackathons, open-source projects, and professional collaboration, I hope to grow alongside people who are committed to building technology that creates lasting positive impact.
+
+For me, software engineering is more than a career — it's a lifelong journey of continuous learning, innovation, and service. Every line of code I write brings me one step closer to creating solutions that empower people, strengthen communities, and inspire the next generation of innovators.
 
 ---
 
@@ -80,6 +118,29 @@ What sets me apart is my ability to integrate AI, web, and mobile technologies i
 ---
 
 ## 🚀 Featured Projects
+
+### 🤝 Lakchogo Connect
+*Community & Welfare Management Platform*
+
+| Feature | Description |
+|---------|-------------|
+| **Community Management** | Membership, communication, and notifications |
+| **Finance & Reports** | Financial tracking and reporting tools |
+| **Authentication** | Secure member access and roles |
+| **AI Roadmap** | Planned AI-assisted features for community insights |
+
+---
+
+### 🎓 AI-Powered School Discipline Management System
+*AI-Assisted Behaviour & Administration Platform*
+
+| Feature | Description |
+|---------|-------------|
+| **AI Recommendations** | AI-driven predictions and behaviour insights |
+| **Teacher Dashboard** | Student management and behaviour analytics |
+| **Administration** | School administration and reporting tools |
+
+---
 
 ### 🔐 Cybersecurity Dashboard
 *AI-Powered Security Analysis Platform*
@@ -216,6 +277,36 @@ What sets me apart is my ability to integrate AI, web, and mobile technologies i
 - 🐳 Docker & Kubernetes for Production Deployment
 - ☁️ Cloud Deployment (AWS, Azure fundamentals)
 - 🔒 Advanced Cybersecurity Concepts
+- 🔗 RAG, MCP, and LangChain
+
+---
+
+## 🎯 Areas of Interest
+
+`Artificial Intelligence` `Machine Learning` `Cybersecurity` `Software Engineering` `Full-Stack Development` `Android Development` `Cloud Computing` `Open Source` `Research`
+
+---
+
+## 🌍 Industries I Want to Serve
+
+`Education` `Schools & Universities` `Healthcare` `Churches` `Welfare Organizations` `NGOs` `SACCOs & Cooperatives` `Small Businesses` `Government` `Agriculture` `Finance` `Community Organizations`
+
+---
+
+## 🤝 Open to Collaboration
+
+I'm open to **hackathons**, **research**, **open-source contributions**, **startup ideas**, **AI projects**, **community projects**, **freelance work**, **internships**, and **graduate programs**.
+
+---
+
+## 🌟 Why Work With Me
+
+- 🎯 Honest, curious, and self-taught
+- ⚡ Fast learner and dedicated problem solver
+- 🤝 Team player and community-focused
+- 🔐 Security-minded in every project
+- 🤖 AI-driven approach to building software
+- 🏗️ Real, deployed projects with a strong GitHub portfolio
 
 ---
 
@@ -252,7 +343,7 @@ What sets me apart is my ability to integrate AI, web, and mobile technologies i
 | **WhatsApp** | [Chat on WhatsApp](https://wa.me/254101277391) |
 | **Portfolio** | [elisha-portfolio-five.vercel.app](https://elisha-portfolio-five.vercel.app) |
 | **AI Chat** | [elisha-ai-explainer.vercel.app](https://elisha-ai-explainer.vercel.app) |
-| **LinkedIn** | [linkedin.com/in/elishabwire](https://linkedin.com/in/elishabwire) |
+| **LinkedIn** | [linkedin.com/in/elisha-bwire](https://www.linkedin.com/in/elisha-bwire-a4a508315) |
 
 ---
 
@@ -294,18 +385,18 @@ What sets me apart is my ability to integrate AI, web, and mobile technologies i
 
 ### 📌 Why Hire Me?
 
-✅ **Real Projects** - My GitHub contains functional, deployed applications you can test immediately.  
-✅ **Clean Code** - I write well-documented, maintainable code with best practices.  
-✅ **Honest & Transparent** - I'm clear about my experience level and eager to learn.  
-✅ **Problem Solver** - I build practical solutions to real-world problems.  
-✅ **Continuous Learner** - I'm constantly improving and expanding my skills.  
-✅ **Security-Focused** - All my projects are built with security in mind.  
-✅ **Full-Stack Versatility** - I integrate AI, web, and mobile technologies into end-to-end solutions.  
-✅ **Cross-API Expertise** - I build systems that connect AI models, databases, and frontend interfaces.  
+✅ **Real Projects** — My GitHub contains functional, deployed applications you can test immediately.
+✅ **Clean Code** — I write well-documented, maintainable code with best practices.
+✅ **Honest & Transparent** — I'm clear about my experience level and eager to learn.
+✅ **Problem Solver** — I build practical solutions to real-world problems.
+✅ **Continuous Learner** — I'm constantly improving and expanding my skills.
+✅ **Security-Focused** — All my projects are built with security in mind.
+✅ **Full-Stack Versatility** — I integrate AI, web, and mobile technologies into end-to-end solutions.
+✅ **Cross-API Expertise** — I build systems that connect AI models, databases, and frontend interfaces.
 
 ---
 
-*"I design and build complete software systems by integrating AI, web, mobile, and security technologies into practical real-world solutions."*
+*"Technology has the power to transform lives. My goal is to build intelligent software that empowers communities, solves real-world challenges, and creates opportunities across Africa and beyond. Along the way, I want to build a network of talented people who can become my future teammates, collaborators, and lifelong innovators."*
 
 ---
 
