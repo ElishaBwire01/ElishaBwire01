@@ -8,9 +8,9 @@
 
 ### Junior Full-Stack Software Developer | Python • Django • JavaScript • AI Integration
 
-**Building practical, intelligent software systems that solve real-world problems.**
+**Building practical, intelligent software systems through PROBLEM IDENTIFICATION, STAKEHOLDER ANALYSIS, AI-ASSISTED DECISION SUPPORT, USER FEEDBACK, SYSTEM MODULES, INTERVENTION, AND VALUE CREATION.**
 
-> *"Building intelligent software that solves real-world problems for communities across Africa."*
+> *"Turning real-world problems into practical digital solutions by understanding people, analysing challenges, integrating AI, learning from user feedback, and creating systems that deliver meaningful value."*
 
 <p>
   <a href="https://github.com/ElishaBwire01">
